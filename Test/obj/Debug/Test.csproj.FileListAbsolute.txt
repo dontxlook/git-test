@@ -1,0 +1,7 @@
+D:\Repos\ULearn\1\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Repos\ULearn\1\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Repos\ULearn\1\Test\Test\bin\Debug\Test.exe.config
+D:\Repos\ULearn\1\Test\Test\bin\Debug\Test.exe
+D:\Repos\ULearn\1\Test\Test\bin\Debug\Test.pdb
+D:\Repos\ULearn\1\Test\Test\obj\Debug\Test.exe
+D:\Repos\ULearn\1\Test\Test\obj\Debug\Test.pdb
