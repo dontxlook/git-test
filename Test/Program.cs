@@ -12,7 +12,7 @@ namespace Test
         {
             public void Main()
             {
-                Console.WriteLine(GetMinX(2, 5, 3));
+                Console.WriteLine(GetMinX(2, 12, 3));
                 Console.WriteLine(GetMinX(0, 3, 2));
                 Console.WriteLine(GetMinX(1, -2, -3));
                 Console.WriteLine(GetMinX(5, 2, 1));
